@@ -1,0 +1,23 @@
+#title
+{
+    text-align: center;
+}
+
+#square
+{
+    margin: 0 auto;
+    border: solid;
+    width: 200px;
+    height: 200px;
+    background-color: blue;    
+}
+
+#button
+{
+    font-size: 400%;
+}
+
+.centerButtons
+{
+    text-align: center;
+}
